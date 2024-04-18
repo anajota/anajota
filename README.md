@@ -4,7 +4,7 @@ Meu nome é Ana Caroline, mas todos me chamam de Jota!
 
 - 💼 Analista de Infraestrutura na Lucree Soluções Inteligentes
 - 🧑‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Descomplica 
-- 💻 Linguagens favoritas: JavaScript
+- 💻 Linguagens favoritas: Não consegui definir ainda :)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anajota&show_icons=true&theme=tokyonight"/>
