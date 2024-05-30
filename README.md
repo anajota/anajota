@@ -2,7 +2,7 @@
 
 Meu nome é Ana Caroline, mas todos me chamam de Jota!
 
-- 💼 Analista de Infraestrutura na Lucree Soluções Inteligentes
+- 💼 Analista de Tecnologia na Lucree Soluções Inteligentes
 - 🧑‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Descomplica 
 - 💻 Linguagens favoritas: Não consegui definir ainda :)
 
