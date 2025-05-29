@@ -11,6 +11,7 @@ Meu nome é Ana Caroline, mas todos me chamam de Jota!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajota&layout=compact&theme=tokyonight"/>
 </div>
 
+
 #### Entre em Contato:
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-caroline-jota-889b821a5/)
