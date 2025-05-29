@@ -6,11 +6,24 @@ Meu nome é Ana Caroline, mas todos me chamam de Jota!
 - 🧑‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Descomplica 
 - 💻 Linguagens favoritas: Não consegui definir ainda :)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anajota&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajota&layout=compact&theme=tokyonight"/>
-</div>
+<br/>
+<br/>
 
+<p>
+  <img
+    align="left"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=anajota&show_icons=true&theme=tokyonight"
+    />
+
+  <img
+    align="left"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajota&theme=tokyonight"
+    />
+</p>
 
 #### Entre em Contato:
 
