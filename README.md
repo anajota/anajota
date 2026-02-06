@@ -5,7 +5,7 @@ Meu nome é Ana Caroline
 - 💼 Backend Developer
 - 🧑‍🎓 Formada em Análise e Desenvolvimento de Sistemas
 - 🧑‍🎓 Cursando Pós-Graduação em Engenharia de Software
-- 💻 Skills: Python | PostgreSQL | APIs REST
+- 💻 Skills: Python - PostgreSQL - APIs REST
 
 <br/>
 <br/>
