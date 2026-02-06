@@ -1,10 +1,11 @@
 ### Olá  👋
 
-Meu nome é Ana Caroline, mas todos me chamam de Jota!
+Meu nome é Ana Caroline 
 
-- 💼 Analista de Tecnologia na Lucree Soluções Inteligentes
-- 🧑‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Descomplica 
-- 💻 Linguagens favoritas: Não consegui definir ainda :)
+- 💼 Backend Developer
+- 🧑‍🎓 Formada em Análise e Desenvolvimento de Sistemas
+- 🧑‍🎓 Cursando Pós-Graduação em Engenharia de Software
+- 💻 Skills: Python | PostgreSQL | APIs REST
 
 <br/>
 <br/>
