@@ -3,9 +3,9 @@
 Meu nome é Ana Caroline 
 
 - 💼 Backend Developer
-- 🧑‍🎓 Formada em Análise e Desenvolvimento de Sistemas
-- 🧑‍🎓 Cursando Pós-Graduação em Engenharia de Software
-- 💻 Skills: Python - AWS - APIs REST
+- 🧑‍🎓 Pós-Graduação em Engenharia de Software
+- 🧑‍🎓 Análise e Desenvolvimento de Sistemas
+- 💻 Skills: Python - AWS - APIs REST - Git - Jira - Desenvolvimento de Software
 
 
 
