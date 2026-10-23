@@ -41,7 +41,7 @@ Certificação que valida conhecimentos fundamentais sobre computação em nuvem
 
 Conheça meus projetos, experiências e conhecimentos:
 
-[![Portfólio](https://img.shields.io/badge/Visitar_meu_portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://ana-jota.netlify.app/)
+[![Portfólio](https://img.shields.io/badge/Visitar_meu_portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://anajota.netlify.app/)
 
 ## Entre em contato
 
